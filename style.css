@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #63738a ;
+}
+.h2{
+    text-align: center;
+    padding: 10px;
+    font-size: 33px;
+    opacity: 0.6;
+    margin: 0;
+}
+.container{
+    width: 450px;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 1px 1px 10px;
+}
+.name{
+    display: flex;
+    justify-content: center;
+}
+.fname{
+    width: 180px;
+    height: 35px;
+    padding: 5px;
+    margin-right: 13px;
+    margin-left: 11px;
+    margin-top: 20px;
+    outline: none;
+}
+.input{
+    width: 400px;
+    height: 35px;
+    outline: none;
+    padding: 5px;
+    margin-top: 35px;
+    margin-left: 10px;
+
+}
+button {
+    width: 415px;
+    height: 45px;
+    margin-left: 10px;
+    margin-top: 40px;
+    background-color: #50A751;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 17px;
+    border-radius: 3px;
+}
+form{
+    width: 430px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p1{
+    text-align: center;
+    opacity: 0.7;
+}
+.frist{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.last{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.email{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.pas{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.pas1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.chex{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.errP{
+    margin: 0;
+    width: 190px;
+    height: 5px;
+    padding-left: 10px;
+    color: red;
+}
+
+
+
+
+
